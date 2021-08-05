@@ -1,0 +1,43 @@
+<html>
+
+<head>
+    <title>tapenade recipe</title>
+</head>
+
+<body>
+    <dl>
+        <dt>Tapenade (olive spread)</dt>
+        <dd>this is really simple dish to prepare and
+            it's always a big hit at parties. My father recommends:
+            <blockquote>
+               "make this the night before so that the flavors have time to blend.
+                Just bring it up to room temperature before you serve it.
+                In the winter, try serving it warm."
+            </blockquote>
+        </dd>
+        <dt>ingredients </dt>
+        <dd>
+            <ul>
+                <li>1 8oz. jar sundried tomatoes</li>
+                <li>2 large garlic cloves</li>
+                <li>2/3 c. kalamata olives</li>
+                <li>1 t. capers</li>
+            </ul>
+        </dd>
+        <dt>Instrutions</dt>
+        <dd>
+            combine tomatoes and garlic in afood processor. blend until
+            as smooth as possible.
+        </dd>
+        <dd>
+            add capers and olives. pulse the motor a few times until they are incorporated, but still retain some texture.
+        </dd>
+        <dd>
+            serve on thin toast rounds with goat cheese and fresh basil garnish
+            (optional).
+        </dd>
+
+    </dl>
+</body>
+
+</html>
