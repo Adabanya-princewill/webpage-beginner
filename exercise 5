@@ -1,0 +1,30 @@
+1. A tag consists of the element name (usually an abbreviation of a longer descriptive name) within
+angle brackets (< >) while
+an element consists of both the content and its markup
+
+2. <html>
+       <head>
+           <title> title here... </title>
+        </head>
+     <body>
+        content here... 
+     </body>   
+    </html> 
+
+3. A- YES
+   B- YES
+   C- NO ... because of the spaces
+   D- YES
+   E- NO ... because of the slashes
+   F- NO ... percentage signs is not allowed
+
+4. A- no attribute name
+      <img scr="birthday.jpg" />
+   B- no slash on the closing tag
+      <i>Congratulations</i>
+    C- wrong closing format
+       <a href="file.html"> linked text</a>
+    D- slash not blackslash
+       
+       <p> This is a new paragraph</p>
+5. <!-- product list begins here -->       
