@@ -1,0 +1,31 @@
+body {
+    background-color: #C2A7F2;
+    font-family: sans-serif;
+}
+
+h1 {
+    color: black;
+    font-variant:small-caps;
+    border-bottom: 2px solid #2A1959;
+}
+p img {
+    float: right;
+    margin: 0 12px;
+}
+
+h2 {
+    color: black;
+    font-size: 1.2em;
+}
+
+h2, p {
+    margin-left: 120px;
+}
+#text-indent {
+    text-indent: 10%;
+}
+img#imgtrans {
+    transform: rotateX(180);
+    transform-style: flat;
+    transition-duration: 5s;
+}
