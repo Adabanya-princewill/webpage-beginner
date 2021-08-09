@@ -1,0 +1,70 @@
+<html lang="en">
+
+<head>
+    <title>Forms</title>
+    <style>
+        ul {
+            list-style-type: none;
+        }
+    </style>
+</head>
+
+<body>
+    <form action="http://www.learningwebdesign.com/contest.php" method="POST">
+        <fieldset>
+            <h1>Pimp My Shoes Contest Entry Form</h1>
+            <p>Want to trade in your sneakers for a custom pair of Forcefields?
+                Make a case for why your shoes have got to go and you may be one of ten lucky winners.
+            </p>
+            <p>Contest Entry Information</p>
+            <ul>
+                <li><label for="form-name">Name: <input type="text" id="form-name"></label> </li>
+                <li><label for="form-city"> City: <input type="text" id="form-city"></label> </li>
+                <li><label for="form-state">State: <input type="text" id="form-state"> </label> </li>
+            </ul>
+            <p> My shoes are SO old</p>
+            <textarea name="form-entry" id="form-entry" cols="60" rows="10"
+                maxlength="300"> (Your entry must be no more than 300 characters long) </textarea>
+            <p><strong>Design your custom Forcefields:</strong> <br>
+                custom shoe design</p>
+            <p>color:</p>
+            <ul>
+                <li> <input type="radio" name="color"> Red</li>
+                <li> <input type="radio" name="color"> Blue</li>
+                <li> <input type="radio" name="color"> Black</li>
+                <li> <input type="radio" name="color"> Silver</li>
+            </ul>
+            <p>Features ( choose as many as you want):</p>
+            <ul>
+                <li> <input type="checkbox" checked name="Features"> Sparkle laces </li>
+                <li> <input type="checkbox" name="Features">Metallic logo</li>
+                <li> <input type="checkbox" name="Features"> light-up heels</li>
+                <li> <input type="checkbox" name="Features">MP3-enabled</li>
+            </ul>
+            <p>Size <br>
+                (sizes reflect standard men's sizing):
+                <select name="Size" id="Size">
+                    <optgroup label="color">
+                        <option>Red</option>
+                        <option>Blue</option>
+                        <option selected>green</option>
+                    </optgroup>
+
+                    <option>the cure</option> 
+                    <option>cocteau twins</option>
+                    <option selected>tears for fears</option>
+                    <option>thompson twins</option>
+                    <option>everything but the girl</option>
+                    <option>depeche mode</option>
+                    <option>the smiths</option>
+                    <option>new order</option>
+                </select>
+            </p>
+
+
+            <p> <input type="submit" value="Pimp My Shoes!" /> <input type="reset" value="Reset"> </p>
+        </fieldset>
+    </form>
+</body>
+
+</html>
