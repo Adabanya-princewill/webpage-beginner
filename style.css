@@ -1,7 +1,10 @@
 body{
-  margin: 0%;
+      margin: 0%;
     background-color: white;
-    height: 3000px;
+
+}
+.float {
+    clear: both;
 }
 
 p { 
@@ -11,12 +14,12 @@ p {
     text-align: justify;
 }
 ul {
-    position: absolute;
+    position:absolute;
     top: 25px;
     left: 40%;
 }
 #head-abs {
-    position: absolute;
+    position:absolute;
     top: 12px;
     left: 70px;
 }
@@ -74,11 +77,41 @@ img:hover{
     transform: scale(1.03);
     transition: all ease-in-out 300ms;
 }
-#cls {
-    clear: both;
+.footer {
+    margin: 0;
+    padding: 100px 7px 7px 10px;
+    position: absolute;
+    top: 1700px;
+    left: 0;
+    background-color: slategray;
+    height: 90px;
+    width: 100%;
+  overflow: auto;
 }
+ .footer-copy {
+    text-align: center;
 
-
+}
+.div-float {
+    float: left;
+    margin-right: 50px;
+    border-left: 5px solid darkslategray;
+    width: 400px;
+    height: 300px;
+    margin: 10px ;
+}
+/* Style the video: 100% width and height to cover the entire window */
+#myVideo {
+    height: 70%;
+    background-color: rgb(61, 202, 238);
+    width: 100%;
+    overflow: auto;
+    margin: 0;
+    padding: 0;
+}
+  
+    
+  }
 
 
 
