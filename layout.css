@@ -17,10 +17,10 @@ div#extras {
        background-color: darkslategrey;
 }
 ul li {
-    color: rgb(59, 63, 59))61);
+    color: rgb(59, 63, 59, 61);
     padding: 10px 5px 0 10px;
     list-style-type:none;
-    display: inline-block;
+    display:inline-block;
 }
 li:hover {
     padding: 10px 0 0 20px;
