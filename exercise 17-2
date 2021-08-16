@@ -1,0 +1,45 @@
+<style>
+body {font-family: Verdana, sans-serif;
+margin: 0;}
+
+h1#ds {
+text-indent: -5000px;
+background: url(images/designerrific_trans.gif) no-repeat;
+width: 360px;
+height: 70px;
+margin: 0;
+position: absolute;
+top: 25px;
+left: 25px;}
+
+ul#nav {
+list-style-type: none;
+margin: 0;
+position: absolute;
+top: 65px;
+right: 25px;}
+
+ul#nav li { display: inline;}
+
+ul#nav li a {
+background-color: #0A6D73;
+border: 1px solid #FFF;
+color: white;
+font-size: 76%;
+text-decoration: none;
+text-align: center;
+text-transform: uppercase;
+letter-spacing: 2px;
+padding: 2px 20px;
+margin: 0px 2px;}
+
+ul#nav li a:hover {
+background-color: #F8409C;
+border: 1px solid #600; }
+
+#header {
+position: relative;
+background: #9cd8cd;
+border-bottom: 3px double #600;
+height: 100px;}
+</style>

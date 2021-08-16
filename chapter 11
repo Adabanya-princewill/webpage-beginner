@@ -1,0 +1,31 @@
+1. selector: blockquote, property: line-height, value: 1.5, declaration: line-height: 1.5
+
+2. The paragraph text will be red because when there are conflicting rules of identical weight, the last one listed in
+the style sheet will be used.
+
+3. a. Use one rule with multiple declarations applied to the p element.
+p {font-face: sans-serif;
+font-size: 1em;
+line-height: 1.2em;}
+
+b. The semicolons are missing.
+blockquote {
+font-size: 1em;
+line-height: 150%;
+color: gray;
+}
+
+c. There should not be curly braces around every declaration, only around the entire declaration block.
+body {background-color: black;
+color: #666;
+margin-left: 12em;
+margin-right: 12em;}
+
+d. This could be handled with a single rule with a grouped element type selector.
+p, blockquote, li {color: white;}
+
+e. This inline style is missing the property name.
+<strong style="color: red">Act now!</strong>
+
+4.
+div#intro { color: red; }

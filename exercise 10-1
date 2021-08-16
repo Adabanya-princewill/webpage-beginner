@@ -1,0 +1,29 @@
+1. Convert all elements and attributes to lowercase.
+2. Add XHTML attributes to the html element.
+3. Convert the & in the title to its character entity, &amp;
+4. In the img element, put the width and height values in quotation marks
+5. Terminate the img element by adding a space and trailing slash before the closing bracket.
+6. Close the li elements in the unordered list and the final p element.
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+
+<head>
+<title>Popcorn &amp; Butter</title>
+</head>
+
+<body>
+<h1>Hot Buttered Popcorn</h1>
+
+<p><img src="popcorn.jpg" alt="bowl of popcorn" width="250" height="125" /></p>
+
+<h2>Ingredients</h2>
+<ul>
+<li>popcorn</li>
+<li>butter</li>
+<li>salt</li>
+</ul>
+
+<h2>Instructions</h2>
+<p>Pop the popcorn. Meanwhile, melt the butter. Transfer the popped popcorn into a bowl, drizzle with melted
+butter, and sprinkle salt to taste.</p>
+</body>
+</html>

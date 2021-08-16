@@ -1,7 +1,15 @@
+1. The h1 is missing in the end tag.
+2. The closing p tag is missing a slash.
+3. The strong element is betterv than the b element.
+4. Add the abbr element for Mass.
+5. The book title would be better in italic text than in cite element.
+6. The prize code example would be better as a kbd.
+7. The text marked as italic in the last line should be emphasized ( em ).
+
 <h1> You've won! </h1>
 
 <p><b>Congratulations!</b> you have just won dinner for two at the
 the highly acclaimed blue ginger resturant in wellesley, mass. in
 addition to dinner, you will receive an autograph copy of ming tsai's book, 
 <i>blue ginger</i>. to redeem your prize, go to our site and enter your prize code
-(example:<code>RPZ108-BG</code>). we're sure you're gpoing to <em>love</em> it! </p>
+(example:<kdb>RPZ108-BG</kdb>). we're sure you're gpoing to <em>love</em> it! </p>

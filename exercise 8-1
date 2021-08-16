@@ -1,0 +1,24 @@
+<table>
+<tr>
+<th>album</th>
+<th>year</th>
+</tr>
+
+<tr>
+    <td>Rubber Soul</td>
+    <td>1965</td>
+</tr>
+<tr>
+    <td>Revolver</td>
+    <td>1966</td>
+</tr>
+<tr>
+    <td>Segt. pepper's</td>
+    <td>1967</td>
+</tr>
+<tr>
+    <td>Abbey Road</td>
+    <td>1969</td>
+</tr>
+</table>
+

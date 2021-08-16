@@ -1,0 +1,10 @@
+1. B, E, A, D, C
+2. E, D, B, A, C
+3. The display property is used to specify how the element box should be handled in the layout; for example, as a
+block element starting on a new line or as an inline element staying in the text flow.
+4. Elements set to display: none are completely removed from the normal flow and the space they would have
+occupied is closed up. An element with visibility set to hidden is invisible, but the empty space it would have
+occupied in the normal flow is still there.
+5. List items can be turned into inline elements using the display property, or floated to one edge so they stack up
+next to one another.
+6. C, the :hover selector.

@@ -1,0 +1,28 @@
+1. A form for accessing your bank account online: POST (because of security issues)
+   A form for sending t-shirt artwork to the printer: POST (because it uses the file selection input type)
+   A form for searching archived articles: GET (because you may want to bookmark search results)
+   A form for collecting essay entries: POST (because it is likely to have a length text entry)
+
+2. Choose your astrological sign from 12 signs: Pull-down menu ( <select> )
+    Indicate whether you have a history of heart disease (yes or no): Radio buttons ( <input type="radio"> )
+    Write up a book review: <textarea>
+   Select your favorite ice cream flavors from a list of eight flavors. Eight checkboxes or a pull-down menu
+    Select your favorite ice cream flavors from a list of 25 flavors. Scrolling menu ( <select multiple="multiple"> )
+
+3.
+The type attribute is missing.
+Checkbox is not an element name; it is a value of the type attribute in the input element.
+The option element is not empty. It should contain the value for each option (for example,
+<option>Orange</option> ).
+The required name attribute is missing.
+The width and height of a text area are specified with the cols and rows attributes.
+
+
+
+
+
+
+
+
+
+

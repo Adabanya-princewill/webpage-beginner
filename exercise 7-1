@@ -1,0 +1,37 @@
+ index.html:
+<h2>Pozzarello</h2>
+<p><a href="window.html"><img src="thumbnails/window_100.jpg" alt="view from the bedroom window" width="75"
+height="100"></a></p>
+<p>The house we stayed in was called Pozzarello and it was built around the year 1200 as the home of the
+gardner who tended the grounds of the adjacent castle. The thick walls kept us nice and cool inside, despite
+the blistering mid-day heat. This is the view from our bedroom window.</p>
+<h2>On the Road</h2>
+
+<p> <a href="countryside.html"><img src="thumbnails/countryside_100.jpg" alt="photo of countryside"
+width="100" height="75"></a> </p>
+<p>This is the scene on the way to Montalcino (all roads lead to Montalcino!). It looks a lot like the
+scene on the way to Sienna, and the scene on the way to the grocery store. We were surrounded by beautiful
+countryside for most of our travels.</p>
+<h2>Sienna</h2>
+<p> <a href="sienna.html"><img src="thumbnails/sienna_100.jpg" alt="photo of Sienna" width="75"
+height="100"></a><a href="duomo.html"> <img src="thumbnails/duomo_100.jpg" alt="the Duomo cathedral
+in Sienna" width="75" height="100"></a> </p>
+<p>The closest city to our villa was Sienna, about 30 minutes away. We spent many days exploring the steep
+and crooked streets, sampling the local cuisine at outdoor restaurants, and stopping in the dark and echoey
+Duomo to escape the sun.</p>
+
+ countryside.html:
+<h1>The Tuscan Countryside</h1>
+<p> <img src="photos/countryside.jpg" alt="photo of the countryside on the way to Montalcino"
+width="500" height="375"> </p>
+
+ sienna.html:
+<h1>The Streets of Sienna</h1>
+<p> <img src="photos/sienna.jpg" alt="view of the narrow winding streets of Sienna" width="375"
+height="500"> </p>
+
+
+ duomo.html:
+<h1>A View of the Duomo</h1>
+<p> <img src="photos/duomo.jpg" alt="view of the Duomo cathedral in Sienna" width="375"
+height="500"> </p>

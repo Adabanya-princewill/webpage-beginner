@@ -12,7 +12,7 @@ an element consists of both the content and its markup
     </html> 
 
 3. A- YES
-   B- YES
+   B- NO ....it should end in .html
    C- NO ... because of the spaces
    D- YES
    E- NO ... because of the slashes
@@ -24,7 +24,7 @@ an element consists of both the content and its markup
       <i>Congratulations</i>
     C- wrong closing format
        <a href="file.html"> linked text</a>
-    D- slash not blackslash
+    D- forward slash not blackslash
        
        <p> This is a new paragraph</p>
 5. <!-- product list begins here -->       

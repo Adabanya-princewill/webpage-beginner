@@ -1,0 +1,18 @@
+1. The src and alt attributes are required for the document to be valid. If the src attribute is omitted, the browser
+won’t know which image to use. You may leave the value of the alt attribute empty if alternative text would be
+meaningless or clumsy when read in context.
+
+2. <img src="furry.jpg" alt="" />
+
+3. It improves accessibility by providing a description of the image if it is not available or not viewable, and 2)
+because HTML documents are not valid if the alt attribute is omitted.
+
+4. It allows the browser to render the rest of the content while the image is being retrieved from the server, which
+can speed up the display of the page.
+
+5.a. the URL is incorrect, so the browser is looking in the wrong
+place or for the wrong file name.
+ b. the image file is not in an acceptable format
+c. the image file is not named with the proper suffix.
+
+6. It indicates that the image is used as an imagemap and provides the name of the applicable map.

@@ -1,0 +1,6 @@
+1. B. floats are positioned against the content area of the containing element.
+2. C. floats do not use offset properties, so there is no reason to include right .
+3. Clear the footer div to make it start below a floated sidebar: div#footer { clear: both; }
+4. A. absolute, B. absolute, fixed, C. fixed, D. relative, absolute, fixed, E. static, F. relative, G. absolute, fixed, H.
+relative, absolute, fixed, I. relative
+5. The sidebar div would be 292 pixels from outer edge to outer edge.

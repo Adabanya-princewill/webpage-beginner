@@ -1,0 +1,15 @@
+<table>
+<tr>
+ <td>Apples</td>
+<td rowsapn="3">oranges</td>
+</tr>
+
+<tr>
+    <td>bananas</td>
+    <td rowspan="2">pineapple</td>
+</tr>
+<tr>
+    <td>Lychees</td>
+    </tr>
+</table>
+

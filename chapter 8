@@ -1,0 +1,14 @@
+1. The table itself ( table ), rows ( tr ), header cells ( th ), data cells ( td ), and an optional caption ( caption ).
+2. Professional designers no longer use tables for layout because they are not semantically correct, they can get overly
+complicated and be a barrier to accessibility, and style sheets are now supported well enough that they offer a
+superior alternative.
+3. Captions are for short titles and they display in the table. Summaries are for longer descriptions and they do
+not display but may be read aloud by a screen reader.
+4. If you want to add additional information about the structure of a table, to specify widths to speed up display, or
+to add certain style properties to a column of cells.
+
+5. a. The caption should be the first element inside the table element
+b. There can’t be text directly in the table element. It must go in a th or td.
+c. The th elements must go inside the tr element.
+d. There is no colspan element. This should be a td with a colspan attribute.
+e. The second tr element is missing a closing tag.

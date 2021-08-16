@@ -1,0 +1,27 @@
+1. You can license to have exclusive rights to an image, so that your competitor doesn’t use the same photo on their
+site.
+
+2. ppi stands for “pixels per inch” and is a measure of resolution.
+
+3. The 7-inch, 72ppi image is only 504 pixels across and would fit fine on a web page. The 4-inch, 300 ppi image is
+1200 pixels across, which is too wide for most pages.
+
+4. Indexed color is a mode for storing color information in an image that stores each pixel color in a color table. GIF
+and 8-bit PNG formats are indexed color images.
+
+5. There are 256 colors in an 8-bit graphic, and 32 colors in a 5-bit graphic.
+
+6. GIF can contain animation and transparency. JPEG cannot.
+
+7. Lossy compression is cumulative, which means you lose image data every time you save an image as a JPEG. If
+you open a JPEG and save it as a JPEG again, even more image information is thrown out than the first time you
+saved it. Be sure to keep your full-quality original and save JPEG copies as needed.
+
+8. PNGs can store 8-bit indexed color, RGB color (both 24- and 48-bit) and 16-bit grayscale images.
+
+9. In binary transparency, a pixel is either entirely transparent or entirely opaque. Alpha transparency allows up to
+256 levels of transparency.
+
+10. GIF or PNG-8 because it is text, flat colors, and hard edges. (B) JPEG because it is a photograph. (C) GIF or
+PNG-8 because although it has some photographic areas, most of the image is flat colors with hard edges. (D) GIF
+or PNG-8 because it is a flat graphical image. (E) JPEG because it is a photograph.

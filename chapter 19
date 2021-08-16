@@ -1,0 +1,12 @@
+1. Smaller graphic files means shorter download and display times. Every second counts toward creating a favorable
+user experience of your site.
+2. Dithering introduces a speckle pattern that interrupts strings of identical pixels, therefore the GIF compression
+scheme can’t compress areas with dithering as efficiently as flat colors.
+3. The fewer pixel colors in the image, the smaller the resulting GIF, both because the image can be stored at a lower
+bit depth and because there are more areas of similar color for the GIF to compress.
+4. The compression setting is the most effective tool for controlling the size of a JPEG.
+5. JPEG compression works effectively on smooth or blurred areas, so introducing a slight blur allows the JPEG
+compression to work more efficiently, resulting in smaller files.
+6. Just as you would do for an indexed GIF, optimize a PNG-8 by designing with flat colors, reducing the number
+of colors, and avoiding dithering. There are no strategies for optimizing a PNG-24 because they are designed to
+store images with lossless compression.

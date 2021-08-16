@@ -1,0 +1,28 @@
+1. Netscape Navigator and Microsoft Internet Explorer were the major players in the Browser Wars.
+2. HTML 4.01 Transitional includes the deprecated presentational elements and attributes that have been removed
+from the Strict version.
+3. HTML 4.01 Strict and XHTML 1.0 Strict the same in that they have the same elements and attributes listed in three
+DTD versions. They are different in that XHTML is an XML language that has more stringent syntax require-
+ments.
+4. The major syntax requirements in XHTML are:
+- Element and attribute names must be lowercase.
+- All elements must be closed (terminated), including empty elements.
+- Attribute values must be in quotation marks.
+- All attributes must have explicit attribute values.
+- Elements must be nested properly.
+- Always use character entities for special characters.
+- Use id instead of name as an identifier.
+- Scripts must be contained in a CDATA section.
+
+5. <IMG SRC="panda.jpg" ALT="panda eating leaves"> HTML
+    <img src="orchid.jpg" alt="orchid" width=100 height=150 > HTML
+   <img src="flipflop.gif" alt="closeup of foot in sandal" /> XHTML
+
+6. The html element must include the xmlns , lang , and xml:lang attributes in XHTML documents.
+7. Include a correct DOCTYPE declaration at the beginning of a document to trigger a browser to use Standards
+Mode.
+8. XHTML offers the benefits of XML, including the ability to be combined with other XML languages, be parsed
+and used by any XML parsing software, and transform information from XML applications to a web page. It is
+also consistent with future web technologies, requires better coding practices, and is better for accessibility and
+use on handheld devices.
+9. ISO 8859-1 is the character encoding of the 256 characters commonly used in Western languages.

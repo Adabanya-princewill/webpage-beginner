@@ -1,0 +1,27 @@
+<style>
+body {margin: 100px;}
+
+table {
+font-family: verdana, sans-serif;
+font-size: 76%;
+border-collapse: separate;
+border-spacing: 4px;
+width: 550px;}
+
+th {
+ text-align: left;
+color: white;
+background: olive;
+vertical-align: bottom;
+padding: 3px 12px 3px 3px; }
+
+td { padding: 6px 12px 6px 3px;
+vertical-align: top;
+border: 1px olive solid; }
+
+.filename { font-style: italic; }
+
+tr.odd { background-color: #F3F3A6;}
+
+tr.even { background-color: #D4D4A2;}
+</style>

@@ -1,0 +1,5 @@
+1. Fixed, c.; Liquid, a.; Elastic, b.
+2. Fixed, b.; Liquid, c.; Elastic, a.
+3. Fixed, c.; Liquid, b.; Elastic, a.
+4. Fixed, c.; Liquid, a.; Elastic, b.
+5. Full-width footer: floats; Not change source order: positioning; No worries about overlapping: floats.

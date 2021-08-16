@@ -1,0 +1,22 @@
+1. <p>People who know me know that I love to cook.</p>
+<hr />
+<p>I’ve created this site to share some of my favorite
+recipes.</p>
+
+2. Deprecated means that an element is no longer in use.
+
+3. A blockquote is a block-level element used for long quotations. The q (quote) element is for short quotations.
+4. <pre></pre>
+5. The ul element is an unordered list for lists that don’t need to appear in a particular order. The ol element is an ordered list in which sequence matters. 
+6. Use a style sheet to remove bullets from an unordered list.
+7. <acronym title="World Wide Web Consortium"> W3C </acronym>
+8. A dl is the element used to identify an entire definition list. The dt element is used to identify just one term
+within that list.
+9. The id attribute is used to identify a unique element in a document and the name in its value may appear only
+once in a document. class is used to classify multiple elements into conceptual groups.
+10. &mdash; em dash
+&amp; ampersand 
+&nbsp; non-breaking space
+&copy; copyright 
+&bull; bullet 
+&trade; trademark
